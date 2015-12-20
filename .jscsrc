@@ -13,7 +13,7 @@
     "requireOperatorBeforeLineBreak": true,
     "requireCamelCaseOrUpperCaseIdentifiers": true,
     "maximumLineLength": {
-      "value": 100,
+      "value": 200,
       "allowComments": true,
       "allowRegex": true
     },
@@ -48,15 +48,9 @@
     "requireSpaceAfterBinaryOperators": true,
     "requireSpacesInConditionalExpression": true,
     "requireSpaceBeforeBlockStatements": true,
-    "requireLineFeedAtFileEnd": true,
     "disallowSpacesInsideObjectBrackets": "all",
     "disallowSpacesInsideArrayBrackets": "all",
     "disallowSpacesInsideParentheses": true,
-
-    "validateJSDoc": {
-        "checkParamNames": true,
-        "requireParamTypes": true
-    },
 
     "disallowMultipleLineBreaks": true,
 
