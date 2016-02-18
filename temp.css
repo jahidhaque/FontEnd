@@ -1,6 +1,190 @@
-.container{
-position:relative;
-width:650px;
-max-width:100%;
-margin:0 auto;
-}
+.clear{
+	        clear:both;
+	    }
+	    .no-margin{margin:0;}
+	    .tcenter{text-align:center;}
+	    /*end of helpful classes*/
+	    
+	    .container{
+	        max-width:650px;
+	        width:100%;
+	        padding:26px 34px;
+	        margin:0 auto;
+	        background:#fff;
+	    }
+	    
+	    .logoContainer{
+	        height:41px;
+	        margin-bottom:26px;
+	        background:transparent;
+	    }
+	    
+	    .fullMail{
+	        width:100%;
+	    }
+	    
+	    .logo{
+	        float:left;
+	        width:188px;
+	        height:41px;
+	        border:1px solid #c1c1c1;
+	    }
+	    
+	    .logo a{
+	        font-size:16px;
+	        color:#858585;
+	        text-align:center;
+	        display:block;
+	        line-height:41px;
+	        text-decoration:none;
+	    }
+	    
+	    
+	    .stateContainer{
+	        position:relative;
+	        width:100%;
+	        height:227px;
+	        background:#c1c1c1;
+	    }
+	    
+	    .stateContainer .whiteOverlap{
+	        position: relative;
+            top: 199px;
+	        width:469px;
+	        height:28px;
+	        margin:0 auto;
+	        background:#fff;
+	    }
+	    
+	    .messageContainer{
+	        position:relative;
+	        padding-bottom:25px;
+	        width:469px;
+	        margin:0 auto;
+	        background:#fff;
+	    }
+	    
+	    .messageHeadings{
+	        margin-bottom:29px;
+	    }
+	    
+	    .messageHeadings span{
+	        display:block;
+	        font-size:30px;
+	        font-weight:700;
+	        text-align:center;
+	        line-height:34px;
+	        color:#1d105f;
+	        text-transform:uppercase;
+	    }
+	    
+	    .thanks{
+	        font-size:13px;
+	        font-weight:400;
+	        text-align:center;
+	        color:#666666;
+	        line-height:16px;
+	    }
+	    
+	    
+	    .impulseInfo{
+	        margin-top:18px;
+	        margin-bottom:18px;
+	    }
+	    
+	    .impulseInfo h4{
+	        display:block;
+	        font-size:18px;
+	        line-height:22px;
+	        font-weight:700;
+	        text-align:center;
+	        color:#666666;
+	    }
+	    
+	    .contact{
+	        font-size:16px;
+	        color:#666;
+	        line-height:18px;
+	    }
+	    
+	    .loginContainer{
+	        margin-top:30px;
+	        width:142px;
+	        height:38px;
+	        margin:0 auto;
+	        background:#1d105f;
+	    }
+	    
+	    .loginContainer a{
+	        display:block;
+	        color:#fff;
+	        font-size:16px;
+	        line-height:38px;
+	        text-transform:uppercase;
+	        text-align:center;
+	        text-decoration:none;
+	    }
+	    
+	    .footer{
+	        width:650px;
+	        position:relative;
+	        margin:0 auto;
+	        background:#f4f4f4;
+	    }
+	    
+	    .footerContainer{
+	        width:469px;
+	        margin:0 auto;
+	        padding-top:44px;
+	        padding-bottom:191px;
+	    }
+	    
+	    .capitalRisk{
+	        padding:8px 8px;
+	        border:1px solid #333;
+	        margin-bottom:25px;
+	    }
+	    
+	    .capitalRisk p{
+	        margin: 0;
+            width: 100%;
+            text-align: left;
+            color: #666666;
+            font-weight: 700;
+            font-size: 13px;
+	    }
+	    
+	    .appStoreContainer{
+	        margin-bottom:25px;
+	    }
+	    
+	    .appStoreContainer .apple{
+	        float:left;
+	        margin-right:15px;
+	    }
+	    
+	    .advisorFirm{
+	        margin-bottom:25px;
+	    }
+	    
+	    .advisorFirm h4{
+	        font-size:14px;
+	        font-weight:700;
+	        text-align:left;
+	        margin:0;
+	        color:#666;
+	    }
+	    
+	    .advisorFirm p{
+	        margin:0;
+	        font-size:13px;
+	        color:#666;
+	        text-align:left;
+	    }
+	    
+	    .impulseTrademark{
+	        margin:0;
+	        font-size:13px;
+	        color:#666;
+	        text-align:left;
+	    }
